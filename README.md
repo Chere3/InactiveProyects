@@ -4,4 +4,4 @@
 
 ### F&P BOT
 
-Este bot o proyecto era destinado a ser un bot personalizado del servidor <a src= "https://disboard.org/es/server/765345659179499530">Comunidad Hispana F&P</a>
+Este bot o proyecto era destinado a ser un bot personalizado del servidor [Comunidad Hispana F&P](https://disboard.org/es/server/765345659179499530)
