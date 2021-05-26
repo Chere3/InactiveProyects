@@ -10,7 +10,7 @@ Este bot o proyecto era destinado a ser un bot personalizado del servidor [Comun
 
 Este bot era orientado a un servidor furry. Este proyecto se descontinúo ya que fui baneado del servidor sin justificación alguna.
 
-### Betas
+### <img src="https://cdn.domestika.org/c_fill,dpr_auto,t_base_params.format_jpg/v1500995242/blog-post-covers/000/000/904/904-original.jpg?1500995242" width= 23 height=23> Betas
 
 Esta era la versión de antes del actual [CanaryBot](https://discord.com/users/788888119209361468). Por lo cuál es obsoleto por el cambio de imagen y sus parecidos.
 
