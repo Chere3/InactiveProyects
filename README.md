@@ -2,7 +2,7 @@
 
 - Estos son proyectos que ya no les daré mantenimiento por que cambiaron de nombre o parecidos o por cambios internos algo grandes. Por lo cuál estos fueron cambiados.
 
-### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/fox_1f98a.png" width= 50> F&P BOT
+### <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/fox_1f98a.png" width= 30> F&P BOT
 
 Este bot o proyecto era destinado a ser un bot personalizado del servidor [Comunidad Hispana F&P](https://disboard.org/es/server/765345659179499530). Este bot termino de darse mantenimiento debido a su poco uso y sus parecidos.
 
