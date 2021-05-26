@@ -1,6 +1,6 @@
 # Mis proyectos inactivos.
 
-- Estos son proyectos que ya no les daré manetnimiento por que cambiaron de nombre o parecidos o por cambios internos algo grandes. Por lo cuál estos fueron cambiados.
+- Estos son proyectos que ya no les daré mantenimiento por que cambiaron de nombre o parecidos o por cambios internos algo grandes. Por lo cuál estos fueron cambiados.
 
 ### F&P BOT
 
